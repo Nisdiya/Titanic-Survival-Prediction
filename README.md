@@ -35,3 +35,7 @@ This was my first ever ML project where i learned about lots of new terms, overf
 - Gained experience in submitting predictions on Kaggle.
 - Understood which model to be used with complex datasets and which one to use with simpler ones.
 - Learned error solving by own
+## Model Results 🎯
+
+Random Forest (tuned) performed the best with a small train-test gap.  
+https://github.com/Nisdiya/Titanic-Survival-Prediction/tree/main/images
